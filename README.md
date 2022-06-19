@@ -2,7 +2,7 @@
 
 ## Notebook 1: ICA
 
-- [x] Basic Explaination
+- [x] Theory and Bases
 - [x] Interactive Bar
 - [x] Links to Sources
 ---
@@ -12,3 +12,18 @@
 - [ ] audio + audio
 ---
 - [ ] Animation of Rotation
+
+## Notebook 2: Re-referencing Schemes
+
+- [] Theory and Bases
+- [] \*.md files (which Schemes, how it works, ...)
+- [] Framework of notebooks
+---
+- [] Interactive part
+
+## Notebook 3: Baseline Methods
+- [] Theory and Bases
+- [] \*.md files
+- [] Framework of notebooks
+---
+- [] Interactive part
