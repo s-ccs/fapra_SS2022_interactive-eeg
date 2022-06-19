@@ -15,15 +15,15 @@
 
 ## Notebook 2: Re-referencing Schemes
 
-- [] Theory and Bases
-- [] \*.md files (which Schemes, how it works, ...)
-- [] Framework of notebooks
+- [ ] Theory and Bases
+- [ ] \*.md files (which Schemes, how it works, ...)
+- [ ] Framework of notebooks
 ---
-- [] Interactive part
+- [ ] Interactive part
 
 ## Notebook 3: Baseline Methods
-- [] Theory and Bases
-- [] \*.md files
-- [] Framework of notebooks
+- [ ] Theory and Bases
+- [ ] \*.md files
+- [ ] Framework of notebooks
 ---
-- [] Interactive part
+- [ ] Interactive part
