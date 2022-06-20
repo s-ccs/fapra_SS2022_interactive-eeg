@@ -11,6 +11,7 @@
 - [ ] normal + normal
 - [ ] audio + audio
 ---
+- [ ] Observables
 - [ ] Animation of Rotation
 
 ## Notebook 2: Re-referencing Schemes
